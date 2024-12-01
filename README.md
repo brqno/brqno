@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @brqno  
+- 👀 I’m interested in systems analysis, data analysis, and backend programming.  
+- 🌱 I’m currently learning advanced concepts in artificial intelligence, systems analysis, and programming in Python and C#.  
+- 💞️ I’m looking to collaborate on projects related to system optimization, data processing, and innovative uses of AI in tech.  
+- 📫 How to reach me: brunoagra988@gmail.com  
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: I started my journey in tech as a hybrid IT trainee, and I enjoy finding creative solutions for complex problems. 
