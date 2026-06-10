@@ -39,5 +39,5 @@ My goal is to continue growing in the data field, combining technical skills and
 
 ## Connect With Me
 
-* LinkedIn: [your LinkedIn URL]
-* Email: [your email]
+* LinkedIn: https://www.linkedin.com/in/bruno-a-43a79126b/
+* Email: brunoagra988@gmail.com
