@@ -27,8 +27,8 @@ Currently working in operations and support, leveraging databases, data analysis
 
 ## Currently Learning
 
-* Data Engineering
-* Apache Airflow
+* Data Analysis
+* Power BI
 * ETL / ELT Best Practices
 * Data Modeling
 * Git & Version Control
