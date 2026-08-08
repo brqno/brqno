@@ -11,7 +11,7 @@ Currently working in operations and support, leveraging databases, data analysis
 * Pandas
 * Excel
 * ETL & ELT
-* Apache Airflow
+* Power BI
 
 ## What You'll Find Here
 
