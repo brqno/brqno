@@ -2,20 +2,20 @@
 
 IT professional with experience in SQL, data analysis, systems support, and process automation.
 
-Currently working in operations and support, leveraging databases, data analysis, business indicators, troubleshooting, and Python automation to improve operational efficiency and support decision-making. I have a strong interest in Data Analytics, Data Engineering, and building solutions that transform data into actionable insights.
+Currently studying Data Engineering, leveraging databases, data analysis, business indicators, troubleshooting, and Python automation to improve operational efficiency and support decision-making. I have a strong interest in Data Analytics, Data Engineering, and building solutions that transform data into actionable insights.
 
 ## Technologies & Tools
 
 * SQL
 * Python
 * Pandas
-* Excel
 * ETL & ELT
 * Power BI
+* dbt
 
 ## What You'll Find Here
 
-📊 Data analysis projects
+📊 Data Engineer and Automation projects
 
 🐍 Python automation scripts
 
@@ -27,7 +27,7 @@ Currently working in operations and support, leveraging databases, data analysis
 
 ## Currently Learning
 
-* Data Analysis
+* Data Engineering
 * Power BI
 * ETL / ELT Best Practices
 * Data Modeling
