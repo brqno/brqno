@@ -1,43 +1,47 @@
-# Hi, I'm Bruno 👋
+# Olá! Eu sou o Bruno! 👋
 
-IT professional with experience in SQL, data analysis, systems support, and process automation.
+Sou profissional de tecnologia com experiência em dados e sistemas: SQL, automação de processos e soluções para problemas operacionais. Na Carglass, comecei como Jovem Aprendiz e fui promovido a Assistente de Sistemas e Dados por projetos que eu mesmo propus. Entre eles, um painel de chamados que reduziu em cerca de 33% os chamados recorrentes e automações que economizam horas de trabalho manual por dia.
 
-Currently studying Data Engineering, leveraging databases, data analysis, business indicators, troubleshooting, and Python automation to improve operational efficiency and support decision-making. I have a strong interest in Data Analytics, Data Engineering, and building solutions that transform data into actionable insights.
+Hoje direciono meus estudos e projetos para Engenharia de Dados: pipelines ETL/ELT, modelagem de dados e automações com Python, SQL e dbt. Também estou me aprofundando em Cloud e Databricks.
 
-## Technologies & Tools
+Tenho interesse em construir soluções de dados confiáveis, escaláveis e que transformem dados brutos em informação útil para o negócio.
+
+## Tecnologias e ferramentas
 
 * SQL
 * Python
-* Pandas
-* ETL & ELT
-* Power BI
+* Apache Airflow
 * dbt
-
-## What You'll Find Here
-
-📊 Data Engineer and Automation projects
-
-🐍 Python automation scripts
-
-🗄️ SQL studies and business case solutions
-
-⚙️ ETL and Data Engineering projects
-
-📈 Operational reports and KPI analysis
-
-## Currently Learning
-
-* Data Engineering
 * Power BI
-* ETL / ELT Best Practices
-* Data Modeling
-* Git & Version Control
+  
+## 🚀 Projetos em destaque
 
-## Goals
+| Projeto | O que faz | Tecnologias |
+|---|---|---|
+| [**olist-analytics-pipeline**](https://github.com/brqno/olist-analytics-pipeline) | Pipeline analítico com transformações e armazenamento locais; as marts são exportadas em CSV para o S3, para outros analistas consumirem | Python, dbt, SQL, AWS S3 |
+| [**project_database_brasileirao2023**](https://github.com/brqno/project_database_brasileirao2023) | ELT ponta a ponta do Brasileirão 2023: ingestão via API-Football com verificação de estado (só chama a API se faltar dado), dbt em 3 camadas e modelo estrela para o Power BI | Python, SQL Server, dbt, Power BI |
+| [**fic_data_model_analytic**](https://github.com/brqno/fic_data_model_analytic) | Pipeline didático: gera dados de vendas sintéticos, carrega no SQL Server e modela no dbt para análises de receita, produto, região, vendedor e forma de pagamento | Python, SQLAlchemy, pyodbc, dbt |
+| [**consumoAPILastFm**](https://github.com/brqno/consumoAPILastFm) | ETL com a API do Last.fm, com tratamento de erros, rollback e prevenção de duplicatas, e dashboard em 4 abas | Python, pandas, SQLAlchemy, Streamlit |
 
-My goal is to continue growing in the data field, combining technical skills and business understanding to build efficient, scalable, and data-driven solutions.
+## 💼 Resultados na prática (Carglass)
 
-## Connect With Me
+- **Painel de chamados (GLPI):** categorização dos chamados com Python e Power BI, apresentada mensalmente aos POs. Os chamados recorrentes caíram de 270 para 180 por mês.
+- **6 indicadores operacionais automatizados:** script diário em Python que economizava cerca de 2h por dia da equipe.
+- **Correção de coordenadas nulas:** integração com a API Nominatim que tratava cerca de 70 registros por dia e gerava o script SQL para validação do DBA.
+- **Padronização de arquivos de seguradoras:** app em Streamlit que eliminou cerca de 5h de trabalho manual por semana antes da carga no SSIS.
 
-* LinkedIn: https://www.linkedin.com/in/bruno-a-43a79126b/
+## 📚 Atualmente estou aprendendo
+
+* Apache Airflow
+* AWS
+* Databricks / Spark
+* Modelagem de dados
+
+## 🎯 Objetivos
+
+Estou em busca de oportunidades como **Engenheiro de Dados Júnior** (e aberto também para Analytics Engineer e Analista de Dados).
+
+## 📫 Contato
+
+* LinkedIn: https://www.linkedin.com/in/bruno-alves-agra
 * Email: brunoagra988@gmail.com
