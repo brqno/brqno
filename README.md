@@ -23,7 +23,7 @@ Tenho interesse em construir soluções de dados confiáveis, escaláveis e que 
 | [**olist-analytics-pipeline**](https://github.com/brqno/olist-analytics-pipeline) | Pipeline analítico com transformações e armazenamento locais; as marts são exportadas em CSV para o S3, para outros analistas consumirem | Python, dbt, SQL, AWS S3 |
 | [**project_database_brasileirao2023**](https://github.com/brqno/project_database_brasileirao2023) | ELT ponta a ponta do Brasileirão 2023: ingestão via API-Football com verificação de estado (só chama a API se faltar dado), dbt em 3 camadas e modelo estrela para o Power BI | Python, SQL Server, dbt, Power BI |
 | [**fic_data_model_analytic**](https://github.com/brqno/fic_data_model_analytic) | Pipeline didático: gera dados de vendas sintéticos, carrega no SQL Server e modela no dbt para análises de receita, produto, região, vendedor e forma de pagamento | Python, SQLAlchemy, pyodbc, dbt |
-| [**consumoAPILastFm**](https://github.com/brqno/consumoAPILastFm) | ETL com a API do Last.fm, com tratamento de erros, rollback e prevenção de duplicatas, e dashboard em 4 abas | Python, pandas, SQLAlchemy, Streamlit |
+| [**databricks_analysis_project**](https://github.com/brqno/databricks_analysis_project) | Pipeline medalhão (bronze/prata/gold) sobre dados públicos de emendas parlamentares, com carga idempotente por lote, controle de qualidade e modelo estrela, e dashboard em Power BI | Databricks, PySpark, Delta Lake, SQL, Power BI |
 
 ## 💼 Resultados na prática (Carglass)
 
