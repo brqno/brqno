@@ -12,7 +12,9 @@ Tenho interesse em construir soluções de dados confiáveis, escaláveis e que 
 * Python
 * Apache Airflow
 * dbt
+* Spark & Databricks
 * Power BI
+
   
 ## 🚀 Projetos em destaque
 
@@ -32,9 +34,9 @@ Tenho interesse em construir soluções de dados confiáveis, escaláveis e que 
 
 ## 📚 Atualmente estou aprendendo
 
-* Apache Airflow
+* Aprofundando Apache Airflow
 * AWS
-* Databricks / Spark
+* Aprofundando Databricks / Spark
 * Modelagem de dados
 
 ## 🎯 Objetivos
